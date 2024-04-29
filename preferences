@@ -1,0 +1,8 @@
+set number relativenumber 
+set tabstop=2 softtabstop=2 shiftwidth=2
+set expandtab
+syntax enable
+inoremap ( ()<Left>
+inoremap [ []<Left>
+inoremap { {}<Left>
+inoremap < <><Left>
