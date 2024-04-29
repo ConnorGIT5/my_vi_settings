@@ -5,3 +5,5 @@ syntax enable
 inoremap ( ()<Left>
 inoremap [ []<Left>
 inoremap { {}<Left>
+inoremap ' ''<Left>
+inoremap " ""<Left>
